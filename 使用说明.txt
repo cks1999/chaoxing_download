@@ -1,0 +1,12 @@
+在超星中选择批量下载后，将下载链接放入/dist/links.txt中(不用在意格式，只要链接有间隔就可以)
+执行文件为/dist/threading_batch_download.exe
+
+已使用多线程进行加速
+此下载器专门针对超星文件，打包之后执行效率降低许多，如需享受丝滑速度可以使用源文件
+下一步进行UI设计，交互优化，个人课程资料自动化下载
+
+# @Time    : 2018/12/9 10:43
+# @Author  : 田园小菜籽
+# @Site    : hengyang
+# @File    : Threading_batch_download.py
+# @Software: Visual Studio Code
