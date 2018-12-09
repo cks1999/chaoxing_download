@@ -1,1 +1,7 @@
 .html linguist-language=python
+.txt linguist-language=python
+.exe linguist-language=python
+.pyc linguist-language=python
+.toc linguist-language=python
+
+
